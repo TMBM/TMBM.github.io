@@ -1,0 +1,4 @@
+baseURL = 'https://TMBM.github.io/'
+languageCode = 'en-us'
+title = 'The Most Beautiful Moment'
+theme = \"hugo-nuo\"
